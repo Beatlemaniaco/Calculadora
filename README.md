@@ -6,8 +6,11 @@ Este é um projeto de uma calculadora simples desenvolvida em C. A aplicação o
 Funcionalidades:
 
 Operações Básicas: Realiza soma, subtração, multiplicação e divisão entre dois números inteiros.
+
 Verificação de Divisão por Zero: Impede a tentativa de divisão por zero, garantindo que o programa não falhe.
+
 Menu Interativo: O usuário pode escolher entre iniciar a calculadora, aprender como usá-la ou sair do programa.
+
 Repetição de Operações: O programa permite que o usuário execute múltiplas operações sem precisar reiniciar o aplicativo.
 Como Usar:
 
