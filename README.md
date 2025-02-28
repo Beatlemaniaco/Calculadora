@@ -12,6 +12,7 @@ Verificação de Divisão por Zero: Impede a tentativa de divisão por zero, gar
 Menu Interativo: O usuário pode escolher entre iniciar a calculadora, aprender como usá-la ou sair do programa.
 
 Repetição de Operações: O programa permite que o usuário execute múltiplas operações sem precisar reiniciar o aplicativo.
+
 Como Usar:
 
 1. O usuário escolhe a operação desejada.
